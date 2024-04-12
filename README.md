@@ -15,8 +15,8 @@
 - [Master Public Speaking to Become a Leader at Work. Speak Up!](https://toptal.udemy.com/certificate/UC-0ff12d0e-c0ee-4ff0-a679-f8bffda977cf) - [cert](./images/15.jpg)
 - [Communication Fundamentals: How To Communicate Better](https://toptal.udemy.com/certificate/UC-dd8e4509-4bb8-4acd-8617-d15baafd15ec) - [cert](./images/16.jpg)
 
-- Toptal.com | TopAcademy Coach: Moderator Training Program - [cert](./images/19.jpg)
-- Toptal.com | International Professional Behaviour for Team Members - [cert](./images/18.jpg)
-- Toptal.com | International Professional Behaviour for Team Members 2021 - [cert](./images/17.jpg)
+- Toptal.com | TopAcademy Coach: Moderator Training Program - [cert](./images/19.jpeg)
+- Toptal.com | International Professional Behaviour for Team Members - [cert](./images/18.jpeg)
+- Toptal.com | International Professional Behaviour for Team Members 2021 - [cert](./images/17.jpeg)
 - Toptal.com | Confidential Information and Asset Security Training
 - Toptal.com | Incident Management Framework for Engineering Teams
