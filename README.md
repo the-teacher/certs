@@ -14,6 +14,8 @@
 - [Typescript 3.0: A Practical Guide](https://www.udemy.com/certificate/UC-d374de9e-484f-4246-8f59-191e688acd71) - [cert](./images/14.jpg)
 - [Master Public Speaking to Become a Leader at Work. Speak Up!](https://toptal.udemy.com/certificate/UC-0ff12d0e-c0ee-4ff0-a679-f8bffda977cf) - [cert](./images/15.jpg)
 - [Communication Fundamentals: How To Communicate Better](https://toptal.udemy.com/certificate/UC-dd8e4509-4bb8-4acd-8617-d15baafd15ec) - [cert](./images/16.jpg)
+- [ Communicate Like a CEO](https://toptal.udemy.com/certificate/UC-8d79fd4f-3664-4e8c-8e26-68c0199b6c66) - [cert](./images/20.jpg)
+
 
 - Toptal.com | TopAcademy Coach: Moderator Training Program - [cert](./images/19.jpeg)
 - Toptal.com | International Professional Behaviour for Team Members - [cert](./images/18.jpeg)
