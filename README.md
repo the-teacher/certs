@@ -4,7 +4,7 @@
 |![cert](./images/6.jpg)|![cert](./images/7.jpg)|![cert](./images/8.jpg)|![cert](./images/9.jpg)|![cert](./images/10.jpg)|
 |![cert](./images/11.jpg)|![cert](./images/12.jpg)|![cert](./images/13.jpg)|![cert](./images/14.jpg)|![cert](./images/15.jpg)|
 |![cert](./images/16.jpg)|![cert](./images/17.jpeg)|![cert](./images/18.jpeg)|![cert](./images/19.jpeg)|![cert](./images/20.jpg)|
-|![cert](./images/21.jpg)|![cert](./images/22.jpg)|--|![cert](./images/24.jpg)|--|
+|![cert](./images/21.jpg)|![cert](./images/22.jpg)|![cert](./images/23.jpg)|![cert](./images/24.jpg)|--|
 
 - [Agile Leadership: Become An Agile Leader](https://www.udemy.com/certificate/UC-fdb829fc-6759-4bed-8248-15081f99ffd2) - [cert](./images/1.jpg)
 - [Vue JS 3: The Composition API (Inc Script Setup, TypeScript)](https://www.udemy.com/certificate/UC-3d6f3ee6-fcbb-47b7-9056-775d598beba5) - [cert](./images/2.jpg)
@@ -25,7 +25,8 @@
 - [Communicate Like a CEO](https://udemy.com/certificate/UC-8d79fd4f-3664-4e8c-8e26-68c0199b6c66) - [cert](./images/20.jpg)
 - [Smart Tips: Communication](https://udemy.com/certificate/UC-b7a8a356-62a8-4215-9836-e910fa0f3408) - [cert](./images/21.jpg)
 - [Kubernetes for the Absolute Beginners - Hands-on](https://udemy.com/certificate/UC-0164a30e-3348-4467-95e1-ce50c15452fd/) - [cert](./images/22.jpg)
-- [Leadership: Practical Leadership Skills](https://www.udemy.com/certificate/UC-bb131500-d70c-47e3-a1e5-45ba47e6e506) - [cert](./images/24.jpg)
+- [Modern Redis Unleashed](https://www.udemy.com/certificate/UC-213e7231-c73e-4357-9e06-dca241e5ac18) - [cert](./images/23.png)
+- [Leadership: Practical Leadership Skills](https://www.udemy.com/certificate/UC-bb131500-d70c-47e3-a1e5-45ba47e6e506) - [cert](./images/24.png)
 
 - Toptal.com | TopAcademy Coach: Moderator Training Program - [cert](./images/19.jpeg)
 - Toptal.com | International Professional Behaviour for Team Members - [cert](./images/18.jpeg)
