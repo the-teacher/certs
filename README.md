@@ -4,7 +4,7 @@
 |![cert](./images/6.jpg)|![cert](./images/7.jpg)|![cert](./images/8.jpg)|![cert](./images/9.jpg)|![cert](./images/10.jpg)|
 |![cert](./images/11.jpg)|![cert](./images/12.jpg)|![cert](./images/13.jpg)|![cert](./images/14.jpg)|![cert](./images/15.jpg)|
 |![cert](./images/16.jpg)|![cert](./images/17.jpeg)|![cert](./images/18.jpeg)|![cert](./images/19.jpeg)|![cert](./images/20.jpg)|
-|![cert](./images/21.jpg)|![cert](./images/22.jpg)|![cert](./images/23.jpg)|![cert](./images/24.jpg)|--|
+|![cert](./images/21.jpg)|![cert](./images/22.jpg)|![cert](./images/23.png)|![cert](./images/24.png)|--|
 
 - [Agile Leadership: Become An Agile Leader](https://www.udemy.com/certificate/UC-fdb829fc-6759-4bed-8248-15081f99ffd2) - [cert](./images/1.jpg)
 - [Vue JS 3: The Composition API (Inc Script Setup, TypeScript)](https://www.udemy.com/certificate/UC-3d6f3ee6-fcbb-47b7-9056-775d598beba5) - [cert](./images/2.jpg)
